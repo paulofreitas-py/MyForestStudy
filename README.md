@@ -6,7 +6,22 @@
 [![Open Source](https://img.shields.io/badge/open%20source-yes-brightgreen.svg)](#)
 [![Powered By Café](https://img.shields.io/badge/powered%20by-café%20e%20foco-%23ffdd57)](#)
 
+<!-- Badges Técnicos -->
+[![Build Test](https://github.com/seuusuario/forest-app-clone/actions/workflows/test.yml/badge.svg)](https://github.com/seuusuario/forest-app-clone/actions/workflows/test.yml)
+[![Deploy](https://github.com/seuusuario/forest-app-clone/actions/workflows/deploy.yml/badge.svg)](https://github.com/seuusuario/forest-app-clone/actions/workflows/deploy.yml)
+[![codecov](https://codecov.io/gh/seuusuario/forest-app-clone/branch/main/graph/badge.svg)](https://codecov.io/gh/seuusuario/forest-app-clone)
+[![Coverage Status](https://coveralls.io/repos/github/seuusuario/forest-app-clone/badge.svg?branch=main)](https://coveralls.io/github/seuusuario/forest-app-clone?branch=main)
+[![GitHub Pages](https://img.shields.io/badge/deploy-GitHub%20Pages-blue?logo=github)](https://seuusuario.github.io/forest-app-clone/)
+
 > Um clone visual e interativo do Forest App — plante árvores enquanto foca nas tarefas do dia a dia 🌱
+
+---
+
+## 📸 Demonstração
+
+<p align="center">
+  <img src="https://github.com/seuusuario/forest-app-clone/assets/demo.gif" alt="Demonstração do Forest App Clone" width="700" />
+</p>
 
 ---
 
@@ -58,7 +73,7 @@
 
 ---
 
-## 📦 Tecnologias Utilizadas *(sugestão de seção futura)*
+## 📦 Tecnologias Utilizadas
 - React.js / Vue.js
 - D3.js / Chart.js
 - LocalStorage / IndexedDB
@@ -73,10 +88,6 @@
 
 ## 📄 Licença
 [MIT](./LICENSE)
-
----
-
-## 📸 Screenshot *(adicione aqui uma imagem do app rodando)*
 
 ---
 
