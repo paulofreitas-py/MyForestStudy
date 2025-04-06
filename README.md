@@ -7,20 +7,21 @@
 [![Powered By Café](https://img.shields.io/badge/powered%20by-café%20e%20foco-%23ffdd57)](#)
 
 <!-- Badges Técnicos -->
-[![Build Test](https://github.com/seuusuario/forest-app-clone/actions/workflows/test.yml/badge.svg)](https://github.com/seuusuario/forest-app-clone/actions/workflows/test.yml)
-[![Deploy](https://github.com/seuusuario/forest-app-clone/actions/workflows/deploy.yml/badge.svg)](https://github.com/seuusuario/forest-app-clone/actions/workflows/deploy.yml)
-[![codecov](https://codecov.io/gh/seuusuario/forest-app-clone/branch/main/graph/badge.svg)](https://codecov.io/gh/seuusuario/forest-app-clone)
-[![Coverage Status](https://coveralls.io/repos/github/seuusuario/forest-app-clone/badge.svg?branch=main)](https://coveralls.io/github/seuusuario/forest-app-clone?branch=main)
-[![GitHub Pages](https://img.shields.io/badge/deploy-GitHub%20Pages-blue?logo=github)](https://seuusuario.github.io/forest-app-clone/)
+[![Build Test](https://github.com/paulofreitas-py/MyForestStudy/actions/workflows/test.yml/badge.svg)](https://github.com/paulofreitas-py/MyForestStudy/actions/workflows/test.yml)
+[![Deploy](https://github.com/paulofreitas-py/MyForestStudy/actions/workflows/deploy.yml/badge.svg)](https://github.com/paulofreitas-py/MyForestStudy/actions/workflows/deploy.yml)
+[![codecov](https://codecov.io/gh/paulofreitas-py/MyForestStudy/branch/main/graph/badge.svg)](https://codecov.io/gh/paulofreitas-py/MyForestStudy)
+[![Coverage Status](https://coveralls.io/repos/github/paulofreitas-py/MyForestStudy/badge.svg?branch=main)](https://coveralls.io/github/paulofreitas-py/MyForestStudy?branch=main)
+[![GitHub Pages](https://img.shields.io/badge/deploy-GitHub%20Pages-blue?logo=github)](https://paulofreitas-py.github.io/MyForestStudy/)
 
-> Um clone visual e interativo do Forest App — plante árvores enquanto foca nas tarefas do dia a dia 🌱
+> Um clone visual e interativo do Forest App — plante árvores enquanto foca nas tarefas do dia a dia 🌱  
+> Projeto disponível em: [github.com/paulofreitas-py/MyForestStudy](https://github.com/paulofreitas-py/MyForestStudy)
 
 ---
 
 ## 📸 Demonstração
 
 <p align="center">
-  <img src="https://github.com/seuusuario/forest-app-clone/assets/demo.gif" alt="Demonstração do Forest App Clone" width="700" />
+  <img src="https://github.com/paulofreitas-py/MyForestStudy/assets/demo.gif" alt="Demonstração do Forest App Clone" width="700" />
 </p>
 
 ---
